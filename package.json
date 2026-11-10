@@ -16,7 +16,6 @@
     "mongoose": "^7.4.2",
     "mongoose-to-swagger": "^1.5.1",
     "morgan": "^1.12.1",
-    "string": "^3.3.3",
     "swagger-autogen": "^2.23.5",
     "swagger-ui-dist": "^5.3.1",
     "swagger-ui-express": "^5.0.0"
